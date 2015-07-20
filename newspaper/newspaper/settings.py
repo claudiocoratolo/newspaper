@@ -37,7 +37,9 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'newspaper.news'
+    'newspaper.news',
+    'bootstrap3',
+    'bootstrap3_datetime'
 )
 
 MIDDLEWARE_CLASSES = (
